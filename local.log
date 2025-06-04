@@ -1,13 +1,13 @@
 "" 
 
-Wed Jun 04 2025 12:47:59:773 GMT+0100 (GMT Daylight Time) -- Binary semantic version is v8.9.14
-Wed Jun 04 2025 12:47:59:774 GMT+0100 (GMT Daylight Time) -- Setting output as extra verbose with request parsing
-Wed Jun 04 2025 12:48:01:836 GMT+0100 (GMT Daylight Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+Wed Jun 04 2025 14:01:12:449 GMT+0100 (GMT Daylight Time) -- Binary semantic version is v8.9.14
+Wed Jun 04 2025 14:01:12:449 GMT+0100 (GMT Daylight Time) -- Setting output as extra verbose with request parsing
+Wed Jun 04 2025 14:01:13:414 GMT+0100 (GMT Daylight Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Wed Jun 04 2025 14:01:14:616 GMT+0100 (GMT Daylight Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
-Wed Jun 04 2025 12:48:01:881 GMT+0100 (GMT Daylight Time) -- Connecting to BrowserStack using WebSocket protocol...
-Wed Jun 04 2025 12:48:01:881 GMT+0100 (GMT Daylight Time) -- Platform supports WebSocket connections.
+Wed Jun 04 2025 14:01:14:780 GMT+0100 (GMT Daylight Time) -- Connecting to BrowserStack using WebSocket protocol...
+Wed Jun 04 2025 14:01:14:780 GMT+0100 (GMT Daylight Time) -- Platform supports WebSocket connections.
 
-Wed Jun 04 2025 12:48:01:994 GMT+0100 (GMT Daylight Time) -- Press Ctrl-C to exit
+Wed Jun 04 2025 14:01:14:884 GMT+0100 (GMT Daylight Time) -- Press Ctrl-C to exit
 
 
-Wed Jun 04 2025 12:48:02:661 GMT+0100 (GMT Daylight Time) -- Starting configuration console on http://localhost:45454
