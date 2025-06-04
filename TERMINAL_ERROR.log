@@ -1,0 +1,23 @@
+PS C:\Users\prisc\Desktop\node-js-playwright-browserstack> npx browserstack-node-sdk playwright test tests/italy/IT-legalInfo.spec.ts --project=chromium
+2025-06-04 12:47:58 - info: Reading configs from C:\Users\prisc\Desktop\node-js-playwright-browserstack\browserstack.yml
+2025-06-04 12:47:58 - info: Log Directory has been set to C:\Users\prisc\Desktop\node-js-playwright-browserstack\log
+2025-06-04 12:47:58 - info: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\prisc\Desktop\node-js-playwright-browserstack\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test tests/italy/IT-legalInfo.spec.ts --project=chromium
+2025-06-04 12:47:58 - info: SDK run started with id: 433e3186-1541-4d82-a9cb-5274583ba6c1
+2025-06-04 12:47:58 - info: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-06-04 12:48:02 - info: Local binary started successfully
+
+Running 1 test using 1 worker
+
+  ✓  1 [chromium] › tests\italy\IT-legalInfo.spec.ts:5:7 › Test Google › Open Google page (6.6s)
+
+  1 passed (10.2s)
+
+  Serving HTML report at http://localhost:9323. Press Ctrl+C to quit.
+2025-06-04 12:49:23 - info: Shutdown triggered by SIGINT
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 2025-06-04 12:49:24 - error: Error in sending request to BrowserStack Server : {
+  status: 'failed',
+  message: 'Invalid username or access-key. Visit https://www.browserstack.com/accounts/profile/details for more details.'
+}
+
+^C^C
+PS C:\Users\prisc\Desktop\node-js-playwright-browserstack>
