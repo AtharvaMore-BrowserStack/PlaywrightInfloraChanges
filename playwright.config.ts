@@ -3,6 +3,9 @@ require("dotenv").config();
 
 const desktopViewport = { width: 1600, height: 1200 };
 export default defineConfig({
+  testDir: './tests/italy',
+  testMatch: '**/*.ts',
+
   use: {
     actionTimeout: 15 * 1000,
     navigationTimeout: 45 * 1000,

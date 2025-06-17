@@ -1,13 +1,28 @@
-"" 
 
-Wed Jun 04 2025 14:01:12:449 GMT+0100 (GMT Daylight Time) -- Binary semantic version is v8.9.14
-Wed Jun 04 2025 14:01:12:449 GMT+0100 (GMT Daylight Time) -- Setting output as extra verbose with request parsing
-Wed Jun 04 2025 14:01:13:414 GMT+0100 (GMT Daylight Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
-Wed Jun 04 2025 14:01:14:616 GMT+0100 (GMT Daylight Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
-Wed Jun 04 2025 14:01:14:780 GMT+0100 (GMT Daylight Time) -- Connecting to BrowserStack using WebSocket protocol...
-Wed Jun 04 2025 14:01:14:780 GMT+0100 (GMT Daylight Time) -- Platform supports WebSocket connections.
+Tue Jun 17 2025 17:03:23:127 GMT+0530 (IST) -- Binary semantic version is v8.9.2
+Tue Jun 17 2025 17:03:23:128 GMT+0530 (IST) -- Setting output as extra verbose with request parsing
+Tue Jun 17 2025 17:03:23:569 GMT+0530 (IST) -- Starting configuration console on http://localhost:45454
+Tue Jun 17 2025 17:03:24:774 GMT+0530 (IST) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
-Wed Jun 04 2025 14:01:14:884 GMT+0100 (GMT Daylight Time) -- Press Ctrl-C to exit
+Tue Jun 17 2025 17:03:25:722 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Jun 17 2025 17:03:25:722 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Tue Jun 17 2025 17:03:27:252 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Jun 17 2025 17:03:27:262 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Tue Jun 17 2025 17:03:27:348 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Jun 17 2025 17:03:27:358 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Tue Jun 17 2025 17:03:27:394 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Jun 17 2025 17:03:27:406 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Tue Jun 17 2025 17:03:27:753 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Jun 17 2025 17:03:27:777 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Tue Jun 17 2025 17:03:28:305 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Jun 17 2025 17:03:28:316 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Tue Jun 17 2025 17:03:28:319 GMT+0530 (IST) -- Press Ctrl-C to exit
 
 

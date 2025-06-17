@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sample-test": "npx browserstack-node-sdk playwright test --config=./playwright.config.js",
+    "sample-test": "npx browserstack-node-sdk playwright test --config=./playwright.config.ts",
+    "sample-new-test": "npx browserstack-node-sdk playwright test --config=./playwright.config.js",
     "sample-local-test": "npx browserstack-node-sdk playwright test --config=./playwright.local.config.js",
     "postinstall": "npm update browserstack-node-sdk"
   },
@@ -13,6 +14,6 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
-    "browserstack-node-sdk": "latest"
+    "browserstack-node-sdk": "^1.36.1"
   }
 }
